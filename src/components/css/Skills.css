@@ -1,0 +1,36 @@
+
+
+.progress-row {
+    padding: 1em 1em;
+  }
+  
+  .textbox {
+    height: 700px;
+  }
+  
+  .progress {
+    margin-bottom: 4px;
+  }
+  
+  .progress-bar {
+    width: 0;
+
+  }
+
+
+  .custom-row{
+    padding-top:5%;
+   }
+
+  .card-body{
+    background-color:#17141d;
+  }
+
+  .card-body h3,h5,p{
+    color:#a1a1af;
+ }
+
+ .card-header{
+   height:50px;
+   background-color: #1f1c18;
+ }

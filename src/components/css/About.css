@@ -1,0 +1,13 @@
+.about-heading{
+    justify-content:center;
+    text-align: center;
+    font-family: cursive;
+    font-size:20px;
+    color:white;    
+}
+
+.custom-card-image{
+  height:265px;
+  width:2592px;
+}
+

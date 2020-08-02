@@ -1,0 +1,42 @@
+body {
+ height:100%;
+ width:100%;
+ /* Resize the background image to cover the entire container */
+ background: url('/images/background4.jpg') no-repeat center center fixed; 
+
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+
+
+
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.section-title{
+  margin: auto;
+  text-align: center;
+  font-family: cursive;
+  font-size:40px;
+  padding-bottom:3%;
+  color:white;
+}
+
+.component-container{
+  padding-left:2%;
+  padding-right:5%;
+  width: 100%;
+  padding-top:7%;
+  background-color: rgba(0, 0, 0, 0.74);
+}

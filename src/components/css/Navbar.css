@@ -1,0 +1,22 @@
+.navbar{
+    position:fixed;
+    background-color: #17141d;
+    box-shadow: 0px 8px 8px -6px rgb(84, 77, 141);
+    margin-bottom:80%;
+}
+
+.navbar li a{
+    font-family: cursive;
+    color:white;
+    padding-right:400px;
+}
+
+.collapse{
+    color:white;
+}
+
+
+.site-name{
+    font-family: cursive;
+}
+

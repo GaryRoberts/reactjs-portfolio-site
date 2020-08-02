@@ -1,0 +1,25 @@
+.Body,Html{
+  margin:0;
+  width:100%;
+  height:100%;
+  background-color: #100e17;
+  overflow-x: hidden;
+}
+
+
+
+.samples{
+  background-color: #100e17;
+  max-height:100%;
+  
+  /*#17141d
+   text-color: #a1a1af
+   black-texture: #1f1c18
+  */
+  
+}
+
+
+
+
+

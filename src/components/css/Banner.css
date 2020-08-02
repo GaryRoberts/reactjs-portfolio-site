@@ -1,0 +1,102 @@
+/*
+ * ==== hexagon
+ */
+ 
+ .name-heading{
+     text-align: center;
+     font-family: cursive;
+     color:white;    
+ }
+
+
+ .custom-row{
+  margin-top:3%;
+  background-color: rgba(0, 0, 0, 0.74);
+ }
+
+ @media only screen and (max-width: 600px) {
+  .custom-row{
+     margin-top:10%;
+   }
+}
+
+.card-body{
+  background-color:#17141d;
+}
+
+.card-body h3,h5,p{
+  color:white;
+}
+
+.card-header{
+ height:50px;
+ background-color: #1f1c18;
+}
+
+  .img-fluid{
+    padding-left:10px;
+    text-align:center;
+    height:300px;
+    width:300px;
+  }
+
+  .profile-img{
+    padding-top:5%;
+  }
+
+  .keyboard-img{
+   height:100px;
+   width: 240px;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .custom-row{
+      padding-top:15%;
+     }
+
+  }
+
+  .plane-img{
+    height:310px;
+    width:350px;
+
+  }
+
+  .download-icon{
+    padding-left:5px;
+    height:20px;
+    width:25px;
+  }
+
+  .github-icon{
+    padding-left:5px;
+    height:30px;
+    width:80px;
+  }
+
+  .h2{
+    font-family: cursive;
+    color:black;
+  }
+  
+  .bio h3{
+      color:white;
+      font-family: cursive;
+  }
+
+  .bio p{
+    color:white;
+}
+
+
+
+  .hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
+  .resume-label{
+    padding-left:3%;
+  }
