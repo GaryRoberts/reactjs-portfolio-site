@@ -12,11 +12,6 @@ It includes the following components:
 
 The project Template can be used to build bigger projects
 
-## Live Application URL
-
-### https://aditya-sridhar.github.io/simple-reactjs-app
-This URL has the application deployed in
-
 ## Prerequisites
 
 ### Install Node JS
