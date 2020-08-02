@@ -10,8 +10,6 @@ It includes the following components:
 4. Acievements
 5. Contact
 
-The project Template can be used to build bigger projects
-
 ## Prerequisites
 
 ### Install Node JS
