@@ -42,8 +42,8 @@ The Application Runs on **localhost:3000**
 
 ![GitHub Logo](/public/images/screenshot1.JPG)
 ![GitHub Logo](/public/images/screenshot2.JPG)
+![GitHub Logo](/public/images/screenshot3.JPG)
 ![GitHub Logo](/public/images/screenshot4.JPG)
-![GitHub Logo](/public/images/screenshot5.JPG)
 
 ## Resources
 
