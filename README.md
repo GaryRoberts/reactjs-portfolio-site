@@ -2,12 +2,12 @@
 
 ## What is the use of this Repo?
 
-This Project is a Simple ReactJS Project which demonstrates how to make portfolio website for a software 
+This Project is a Simple ReactJS Project which demonstrates how to make portfolio website for a software. 
 It includes the following components:
 1. About
 2. Skills
 3. Projects
-4. Acievements
+4. Achievements
 5. Contact
 
 ## Prerequisites
@@ -39,6 +39,13 @@ npm start
 ```
 
 The Application Runs on **localhost:3000**
+
+![GitHub Logo](/public/images/screenshot1.JPG)
+![GitHub Logo](/public/images/screenshot2.JPG)
+![GitHub Logo](/public/images/screenshot3.JPG)
+![GitHub Logo](/public/images/screenshot5.JPG)
+![GitHub Logo](/public/images/screenshot4.JPG)
+
 
 ## Resources
 
